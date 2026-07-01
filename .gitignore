@@ -1,0 +1,11 @@
+venv312/
+__pycache__/
+
+*.pyc
+*.csv
+*.mp4
+*.png
+*.jpg
+
+yolov8n.pt
+face_landmarker.task
